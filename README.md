@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Curernt Status 👋
+- I’m currently working on .Net core 
 <!--
 **chalewt/chalewt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
